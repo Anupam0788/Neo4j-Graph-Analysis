@@ -1,4 +1,4 @@
-Medicine Name,Biomarkers,Excellent Review %,Average Review %,Poor Review %,Uses,Side_effects
+Medicine,Biomarkers,Excellent Review %,Average Review %,Poor Review %,Uses,Side_effects
 Avastin 400mg Injection,Bevacizumab (400mg),22.00,56.00,22.00, Cancer of colon and rectum Non-small cell lung cancer Kidney cancer Brain tumor Ovarian cancer Cervical cancer,Rectal bleeding Taste change Headache Nosebleeds Back pain Dry skin High blood pressure Protein in urine Inflammation of the nose
 Augmentin 625 Duo Tablet,Amoxycillin  (500mg) +  Clavulanic Acid (125mg),47.00,35.00,18.00,Treatment of Bacterial infections,Vomiting Nausea Diarrhea Mucocutaneous candidiasis
 Azithral 500 Tablet,Azithromycin (500mg),39.00,40.00,21.00,Treatment of Bacterial infections,Nausea Abdominal pain Diarrhea
